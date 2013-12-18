@@ -3,6 +3,8 @@ Content Creator
 
 The Content Creator is a command-line tool you can use to create demo and test content in a CoreMedia CMS repository.
 
+(Note - this is forked from a repo that no longer exists. Software still works though.)
+
 
 Usage
 -----
